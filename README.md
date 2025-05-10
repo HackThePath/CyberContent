@@ -23,10 +23,4 @@ This repository serves as a visual learning space to:
 - Promote **awareness** of digital security in a fun way
 - Help beginners and non-technical learners grasp technical topics with ease
 
----
 
-## 🚀 Let’s Learn Creatively
-
-If you're someone who believes in the power of visual learning, this project is for you. Stay curious, keep exploring, and feel free to share or use these resources to spread awareness about cybersecurity in your own circles.
-
----
