@@ -6,7 +6,8 @@ This section features short, engaging animated videos that explain core topics i
 
 1. **What is Computer Networking?**
    - A beginner-friendly video explaining the meaning, need of computer networking.
-   - 🔗 Watch Vedio:(https://github.com/HackThePath/CyberContent/blob/1471671c0b2e0bbcdb3d0549d42a839301d9622b/Animations/Computer%20networking.mp4?raw=true)
+   - 🔗 Watch Vedio:
+   (https://www.linkedin.com/posts/karishma-ravindran-11795b2a9_simplifiedinseconds-computernetworks-techexplainer-activity-7326879780824326144-EoKV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpbm-MBAguJlVCNP1b_0lkL6JX-jINfkvU)
 
 
 > 🎯 Each video is under 2 minutes and designed for quick learning and concept clarity.
